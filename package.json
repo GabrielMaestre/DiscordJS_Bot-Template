@@ -1,0 +1,23 @@
+{
+  "name": "discordjs-bot-template",
+  "version": "1.0.0",
+  "description": "DiscordJS Bot Templave v12.5+",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GabrielMaestre/DiscordJS_Bot-Template.git"
+  },
+  "keywords": [],
+  "author": "PINGUIN.ZIP#4931",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GabrielMaestre/DiscordJS_Bot-Template/issues"
+  },
+  "homepage": "https://github.com/GabrielMaestre/DiscordJS_Bot-Template#readme",
+  "dependencies": {
+    "discord.js": "^12.5.3"
+  }
+}
