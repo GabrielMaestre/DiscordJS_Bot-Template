@@ -14,12 +14,12 @@ DiscordJS Bot Templave v12.5+
 
 ## Códigos
 
-Template para Exportar Comandos
+Template para Exportar Comandos:
 ```js
 const Discord = require("discord.js");
 
 module.exports.run = async (msg, args, client) => {
-
+	//seu código aqui
 }
 
 module.exports.help = {
