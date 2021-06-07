@@ -1,5 +1,5 @@
 # DiscordJS_Bot-Template
-DiscordJS Bot Templave v12.5+
+DiscordJS Bot Templave v12.5+ <br>
 Deixe sua estrelinha nesse repositório!
 
 ## Introduction
